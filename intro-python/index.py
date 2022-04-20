@@ -11,10 +11,10 @@
 
 # CONDITIONAL SENTENCE "IF"
 if 3 > 5:
-    print('Esto no se va a imprimir')
+    print('This will not print')
 
 if 5 > 3:
-    print('5 es mayor a 3')
+    print('5 is greater than 3')
 
 # VARIABLES AND MULTIPLE VARIABLES
 my_name, age, nationality = 'Lucas', 19, 'Argentina'
